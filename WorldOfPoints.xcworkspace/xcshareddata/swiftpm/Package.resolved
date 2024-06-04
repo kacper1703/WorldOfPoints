@@ -1,0 +1,24 @@
+{
+  "originHash" : "80202a1df2254bc59dda8e943550edce81f4d7297b0a2619ec0bf9fae317e946",
+  "pins" : [
+    {
+      "identity" : "reachability",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alecrim/Reachability.git",
+      "state" : {
+        "revision" : "33d2cf1dc5c5962683b6fc913ac652ebc4d6c8e1",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "sfsymbols",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Rspoon3/SFSymbols.git",
+      "state" : {
+        "revision" : "131fb43a7d756259706abc73186ca45eca6ce21a",
+        "version" : "2.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}

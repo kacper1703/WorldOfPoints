@@ -1,0 +1,127 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Category filter" : {
+      "comment" : "Title of the category filter picker",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtr kategorii"
+          }
+        }
+      }
+    },
+    "Description:" : {
+      "comment" : "Header for description on transaction details screen",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opis:"
+          }
+        }
+      }
+    },
+    "Filter by category" : {
+      "comment" : "Title of category filter",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtruj po kategorii"
+          }
+        }
+      }
+    },
+    "None" : {
+      "comment" : "Name of no category filter option",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brak"
+          }
+        }
+      }
+    },
+    "Options" : {
+      "comment" : "Title of the oprions menu on transaction list",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opcje"
+          }
+        }
+      }
+    },
+    "Partner:" : {
+      "comment" : "Header for partner name on transaction details screen",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partner:"
+          }
+        }
+      }
+    },
+    "Retry" : {
+      "comment" : "Text on button that retries loading data on content view",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ponów"
+          }
+        }
+      }
+    },
+    "There was an error loading the data: %@" : {
+      "comment" : "Text displayed on content view when there was a problem loading data.",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wystąpił problem podczas ładowania danych: %@"
+          }
+        }
+      }
+    },
+    "Total points: %@" : {
+      "comment" : "Text on label that shows total points count",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masz %@ punktów"
+          }
+        }
+      }
+    },
+    "Transactions list" : {
+      "comment" : "Title on the navigation bar of transactions list",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lista transakcji"
+          }
+        }
+      }
+    },
+    "Your are offline. Please connect to the internet to use the app." : {
+      "comment" : "Text on offline screen when user is offline.",
+      "localizations" : {
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brak połączenia. Podłącz się do sieci aby używać aplikacji."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
