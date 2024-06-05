@@ -37,7 +37,6 @@ struct TransactionListCell: View {
         )
     }
 
-    @ViewBuilder
     private var titleAndDescriptionView: some View {
         VStack(alignment: .leading) {
             Text(transaction.transactionDetail.bookingDate.formatted())
@@ -57,7 +56,6 @@ struct TransactionListCell: View {
         }
     }
 
-    @ViewBuilder
     private var pointsView: some View {
         VStack(alignment: .trailing) {
             Text(transaction.transactionDetail.value.amount.formatted())

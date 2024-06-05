@@ -33,7 +33,6 @@ struct TransactionsListView: View {
         }
     }
 
-    @ViewBuilder
     private var transactionsList: some View {
         LazyVStack {
             ForEach(viewModel.transactions) { transaction in
@@ -47,7 +46,6 @@ struct TransactionsListView: View {
         .animation(.default, value: viewModel.transactions)
     }
 
-    @ViewBuilder
     private var optionsMenu: some View {
         Menu {
             filterMenu
@@ -60,7 +58,6 @@ struct TransactionsListView: View {
         }
     }
 
-    @ViewBuilder
     private var filterMenu: some View {
         Menu {
             Picker(selection: $viewModel.selectedCategory,
@@ -84,7 +81,6 @@ struct TransactionsListView: View {
         }
     }
 
-    @ViewBuilder
     private var pointsFooter: some View {
         Text(footerString)
             .padding(.vertical, 20)

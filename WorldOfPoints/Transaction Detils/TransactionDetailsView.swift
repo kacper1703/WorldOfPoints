@@ -23,7 +23,6 @@ struct TransactionDetailsView: View {
         }
     }
 
-    @ViewBuilder
     private var partnerView: some View {
         VStack {
             Text("Partner:",
